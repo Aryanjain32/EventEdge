@@ -91,7 +91,7 @@ Day 3 covers what happened when I kept fighting the NSE API across 4 versions �
 
 Day 4 is where the pivot happens.
 
-Follow the full build → [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username/event-driven-quant)
+Follow the full build → [LinkedIn](https://www.linkedin.com/in/aryan-jain-98b344309?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/Aryanjain32/EventEdge)
 
 ---
 
